@@ -1,1 +1,2 @@
-print("commit depuis test")
+import random
+a = random.randint(1,12)
